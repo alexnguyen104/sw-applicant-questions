@@ -1,7 +1,7 @@
 ## Tinkercad Circuit Link
 
 ```
-https://www.tinkercad.com/things/bQT0CJUf4ko-bluesat-sw/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard&sharecode=XWog71C7w00lh22zPoh6X3j8IF00vDXKrArRmFVu1JQ
+https://www.tinkercad.com/things/bQT0CJUf4ko-nguyen-khoi-nguyenbluesat-sw
 ```
 
 ## Program Explanation
