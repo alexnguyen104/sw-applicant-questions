@@ -13,4 +13,5 @@ https://www.tinkercad.com/things/bQT0CJUf4ko-nguyen-khoi-nguyenbluesat-sw
 - In reaction(), the program waits for the user to press the button, measures the reaction time using millis() and prints the attempt number, reaction time, average time and number of false starts
 - Based on the reaction time, the LED blinks at different speeds for feedback. I chose a blinking duration of 2.5 seconds so it is clearly visible to the user
 - By the way, I use millis() for blinking and pulsing instead of delay() so the program does not stop and can keep running while the LED changes
+- My assumptions for fast blinking interval is 50ms, for medium blinking interval is 200ms and for slow blinking interval is 350ms
 ```
